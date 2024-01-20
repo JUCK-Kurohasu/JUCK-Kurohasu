@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @JUCK-Kurohasu
-- 👀 I’m interested in ... Ethical Hacking,Programming 
-- 🌱 I’m currently learning ...  F#,Q#,Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Ethical Hack/AI/Web3.0
+F#/Q#/Python
+I’m @JUCK-Kurohasu. just a student lol
 
 <!---
 JUCK-Kurohasu/JUCK-Kurohasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
